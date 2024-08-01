@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Fr4nc1sc0117
+- 👀 I’m interested in learn programming language
+- 🌱 I’m currently learning language programming JavaScript
+- 📫 How to reach me? By my e-mail francisco.strach@escola.pr.gov.br
